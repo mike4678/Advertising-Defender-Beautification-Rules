@@ -1,0 +1,28 @@
+! Version: 20180427000
+! Title:  XIAMI Clean
+! Last modified: 2019/01/05 03:26 +0800
+xiami.com#$##middle {background:none !important;} 
+xiami.com#$##J_mainWrap{background:rgba(288,288,288,0.2) !important;} 
+xiami.com#$#[class*="title-con"] {background:rgba(288,288,288,0.4) !important;border-radius:5px !important;box-shadow: 1px 1px 1px #fff;}
+xiami.com#$#[class*="title-con"] H2,[class*="title-con"] SPAN {color:#000!important;text-shadow: 1px 1px 1px #fff;} 
+xiami.com#$#[id*="ScrollView"] {border-radius:5px !important;box-shadow: 1px 1px 1px #fff;}
+xiami.com#$#.ui-row-item.ui-track-item {background:rgba(288,288,288,0.7) !important;} 
+xiami.com#$#[class*="-body"] {background:none !important;}
+xiami.com#$#[class*="-footer"],[class*="-header"] {border:None !Important;} 
+xiami.com#$#SPAN[title],[class*="ui-row-item-column"],A[title],EM,.time {color:#000000!important;text-shadow: 1px 1px 1px #FFFFFF;} 
+xiami.com#$#.ui-row-item.ui-track-item.ui-track-disabled *{color:#666!important;}
+xiami.com#$#DIV[class*="player-track-info"] a {color:#fff !important;}
+xiami.com#$#.list-button {background:none !important;} 
+xiami.com#$#.user-list-panel {background:rgba(255,255,255,0.9) !important;} 
+xiami.com#$##J_searchResult {background:rgba(288,288,288,0.9) !important;} 
+xiami.com#$#.main-outher {background:rgba(288,288,288,0.7) !important;} 
+xiami.com#$#.ui-lrc-line {color:#000000 !important;text-shadow: 1px 1px 1px #FFFFFF;} 
+xiami.com#$#.ui-lrc-line.ui-lrc-current {color:#FF0000 !important;font-size:15px!important;} 
+xiami.com#$#.no-lrc {opacity:0.7 !important;} 
+xiami.com#$#.menu-outer a {background:none !important;}
+xiami.com#$#.menu-outer,.collect-item-con {background:rgba(288,288,288,0.1) !important;border:none} 
+xiami.com#$#.collect-item-current .collect-item-con,.menu-outer A:hover,.collect-item-con:hover {background:rgba(288,288,288,0.3) !important;}
+xiami.com#$##J_collectScrollView {box-shadow:none !important;} 
+xiami.com#$#.main-sidebar H3 {text-shadow: none !important;} 
+xiami.com#$#.main-sidebar A,.main-sidebar {color:#fff !important;text-shadow: 1px 1px 1px #000;} 
+xiami.com#$##J_playerHQ-tip,.seiya-btn.btn-enter {display:none !important;}
