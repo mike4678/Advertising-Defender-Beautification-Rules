@@ -1,4 +1,4 @@
-! Version: 20180427000
+! Version: 20190105
 ! Title:  XIAMI Clean
 ! Last modified: 2019/01/05 03:26 +0800
 xiami.com#$##middle {background:none !important;} 
@@ -26,3 +26,4 @@ xiami.com#$##J_collectScrollView {box-shadow:none !important;}
 xiami.com#$#.main-sidebar H3 {text-shadow: none !important;} 
 xiami.com#$#.main-sidebar A,.main-sidebar {color:#fff !important;text-shadow: 1px 1px 1px #000;} 
 xiami.com#$##J_playerHQ-tip,.seiya-btn.btn-enter {display:none !important;}
+xiami.com#$#[id*="ScrollView"] { box-shadow: 0px 0px 0px #fff !Important;}

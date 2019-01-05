@@ -1,87 +1,33 @@
-! Version: 20180427000
+! Version: 20190105
 ! Title:  Taobao Clean
 ! Last modified: 2019/01/05 03:26 +0800
-taobao.com#$#tbcc,.grid-right,.search-imgsearch-panel,#srp-footer,.icon-btn-feedback,.icon-btn-help,.icon-btn-history,.mui-mbarp-qrcode-tip,.m-navtabtags,#official-remind,.footer,#copyright,.user-medal,#tmall-desc,#tmall-copyright,#footer,#J_chaoshiService,.sn-mobile,.market-feature{
-    		display:none!important;
-		}
-taobao.com#$#.response-normal .grid-total .grid-left {
-    /* float: left; */
-    /* display: inline; */
-    /* width: 1000px; */
-    margin-left:120px;
-}
-
-taobao.com#$##ald-skuRight,.tb-footer{
-        display:none!important;
-}
-taobao.com#$##tbh-shopping fl J_Module{
-     display:none;
-}
-taobao.com#$##tbh-discover-goods J_Module{
-     display:none;
-}
-taobao.com#$#.cup,.screen,.seat-rect,.goods,.seat,.bottom,.J_FixedTool,.search-hots-fline,.search-hots-sline,.screen-outer,.J_Nav{
-    display:none;
-}
-taobao.com#$#.qr{
-	display:none!important;
-}
-taobao.com#$#.search-hd{
-	 display:none!important;
-}
-taobao.com#$#.cup,.top,.site-nav-bd,.cover,.top-wrap,.ta-sub,.ta-rect,.rect-wrap,.search-wrap,.search-hd,.search-tips,.search-bd,.search-tab-icon,.search-panel,.search-button,.search-panel-fields,.TbSearchContent,.J_TmallSearchContent,.search-combobox-input-wrap,.search-imgsearch-panel,.search-imgsearch-upload,.file-input-wrapper,.drop-wrapper,.search-imgsearch-message,.J_TbSearchContent,.search-hots,.search-hots-lines,.search-hots-fline,.search-hots-sline,.J_TmallSearchContent,.ta-sub,.logo,.ta-extra,.qr,.tbh-search,.search-triggers,#J_TSearchForm,.search-combobox-input,.g-u,.file-input,.search-combobox,.cover ,.site-nav-bd,.site-nav-menu-hd,.site-nav-sign,.site-nav-user,.site-nav-menu-bd,.J_Menu,.site-nav-menu-hd,.site-nav-menu-bd,.J_Tmsg_Panel_Apps,.J_Tmsg_Panels,.J_Tmsg_Panel_Detail,.site-nav,.J_Tmsg_Panel_history,.J_Tmsg_Panel_Strong,.J_Tmsg_Panel_Setting,.site-nav-menu-hd,.site-nav-menu-hd,.site-nav-menu-bd,.site-nav-menu-bd-panel,.site-nav-menu-hd,.site-nav-sign,.site-nav-user,.site-nav-user-info,.site-nav-user-privilege-tip,.site-nav-menu-panel,.site-nav-sitemap-mod,.site-nav-sitemap-mod-wrap,.site-nav-sitemap-mod-hd,#J_SiteMapBd,.site-nav-sitemap-mod-bd,.mini-cart-img,.mini-cart-count,.mini-cart-title,.mini-cart-del,.mini-cart-info,.J_Tmsg_Panel_Apps,.J_Tmsg_Panel_Head,.J_Tmsg_Panel_AppsBody,.J_Tmsg_App,.J_Tmsg_Panel,.tbh-logo{
-    display:block;
-}
-taobao.com#$#.top{
-    height:100%;
-    top:36px;
-    bottom:0px;
-    left:0px;
-    right:0px;
-    width:100%;
-    z-index:-1;
-}
-taobao.com#$#.ta-rect{
-  margin-top:300px;
-}
-taobao.com#$#.logo{
-    position:fixed;
-    top:calc(30% - 80px);
-    left:calc(50% - 100px);
-    margin:0px auto;
-    width:250px;
-}
-taobao.com#$#.top .ta-rect .rect-wrap,.search-bd {
-    margin-left: 0px;
-    margin-right: 0px;
-    position:fixed;
-    top:calc(50% - 80px);
-    left:calc(50% - 300px);
-    width:600px;
-}
-taobao.com#$#.ta-extra{
- display:none;
-}
-taobao.com#$#.J_FixedTool,.fixedtool,.search-hots-fline,.search-hots-sline,.search-hots{
-    display:none!important;
-}
-taobao.com#$#.tb-toolbar-right,.tbh-super-banner{
-    display:none!important;
-}
-taobao.com#$#body{
-    background-color:rgba(0,0,0,0);
-    height:500px;
-}
-taobao.com#$#.logo h1 .logo-bd{
-	width: 250px!important;
-   
-}
-taobao.com#$#.have-fun, .tbh-discover-goods, .tbh-helper, .tbh-live{
-     display:none;
-}
-taobao.com#$#.tbh-shopping{
-     display:none;
-}
-taobao.com#$#.layer{
-     display:none;
-}
+taobao.com#$#tbcc,.grid-right,.search-imgsearch-panel,#srp-footer,.icon-btn-feedback,.icon-btn-help,.icon-btn-history,.mui-mbarp-qrcode-tip,.m-navtabtags,#official-remind,.footer,#copyright,.user-medal,#tmall-desc,#tmall-copyright,#footer,#J_chaoshiService,.sn-mobile,.market-feature { display:none!important;}
+taobao.com#$#.response-normal .grid-total .grid-left {margin-left:120px;}
+taobao.com#$##ald-skuRight,.tb-footer {display:none!important;}
+taobao.com#$##tbh-shopping fl J_Module {display:none;}
+taobao.com#$##tbh-discover-goods J_Module {display:none;}
+taobao.com#$#.cup,.screen,.seat-rect,.goods,.seat,.bottom,.J_FixedTool,.search-hots-fline,.search-hots-sline,.screen-outer,.J_Nav {display:none;}
+taobao.com#$#.qr {display:none!important;}
+taobao.com#$#.search-hd {display:none!important;}
+taobao.com#$#.cup,.top,.site-nav-bd,.cover,.top-wrap,.ta-sub,.ta-rect,.rect-wrap,.search-wrap,.search-hd,.search-tips,.search-bd,.search-tab-icon,.search-panel,.search-button,.search-panel-fields,.TbSearchContent,.J_TmallSearchContent,.search-combobox-input-wrap,.search-imgsearch-panel,.search-imgsearch-upload,.file-input-wrapper,.drop-wrapper,.search-imgsearch-message,.J_TbSearchContent,.search-hots,.search-hots-lines,.search-hots-fline,.search-hots-sline,.J_TmallSearchContent,.ta-sub,.logo,.ta-extra,.qr,.tbh-search,.search-triggers,#J_TSearchForm,.search-combobox-input,.g-u,.file-input,.search-combobox,.cover ,.site-nav-bd,.site-nav-menu-hd,.site-nav-sign,.site-nav-user,.site-nav-menu-bd,.J_Menu,.site-nav-menu-hd,.site-nav-menu-bd,.J_Tmsg_Panel_Apps,.J_Tmsg_Panels,.J_Tmsg_Panel_Detail,.site-nav,.J_Tmsg_Panel_history,.J_Tmsg_Panel_Strong,.J_Tmsg_Panel_Setting,.site-nav-menu-hd,.site-nav-menu-hd,.site-nav-menu-bd,.site-nav-menu-bd-panel,.site-nav-menu-hd,.site-nav-sign,.site-nav-user,.site-nav-user-info,.site-nav-user-privilege-tip,.site-nav-menu-panel,.site-nav-sitemap-mod,.site-nav-sitemap-mod-wrap,.site-nav-sitemap-mod-hd,#J_SiteMapBd,.site-nav-sitemap-mod-bd,.mini-cart-img,.mini-cart-count,.mini-cart-title,.mini-cart-del,.mini-cart-info,.J_Tmsg_Panel_Apps,.J_Tmsg_Panel_Head,.J_Tmsg_Panel_AppsBody,.J_Tmsg_App,.J_Tmsg_Panel,.tbh-logo {display:block;}
+taobao.com#$#.top {height:100%;top:36px;bottom:0px;left:0px;right:0px;width:100%;z-index:-1;}
+taobao.com#$#.ta-rect {margin-top:300px;}
+taobao.com#$#.logo {position:fixed;top:calc(30% - 80px);left:calc(50% - 100px);margin:0px auto;width:250px;}
+taobao.com#$#.top .ta-rect .rect-wrap,.search-bd {margin-left: 0px;margin-right: 0px;position:fixed;top:calc(50% - 80px);left:calc(50% - 300px);width:600px;}
+taobao.com#$#.ta-extra {display:none;}
+taobao.com#$#.J_FixedTool,.fixedtool,.search-hots-fline,.search-hots-sline,.search-hots{display:none!important;}
+taobao.com#$#.tb-toolbar-right,.tbh-super-banner{display:none!important;}
+taobao.com#$#body {background-color:rgba(0,0,0,0);height:500px;}
+taobao.com#$#.logo h1 .logo-bd {width: 250px!important;}
+taobao.com#$#.have-fun, .tbh-discover-goods, .tbh-helper, .tbh-live {display:none;}
+taobao.com#$#.tbh-shopping {display:none;}
+taobao.com#$#.layer {display:none;}
+taobao.com#$#div.login-newbg { background-image: url("http://img.wallpaperfolder.com/f/4A7157C443C4/raquo-blog-archive-el.jpg") !important;}
+taobao.com#$#div.content-layout {background: rgba(255, 255, 255, 0.4);box-shadow: 0 0 0 1px rgba(255, 255, 255, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.6);border-radius: 2em;width: 900px !important;height: 490px !important;position: absolute;top: 45px;}
+taobao.com#$#div.content-layout::before {content: '';position: absolute;top: 0;right: 0;bottom: 0;left: 0;filter: blur(20px);}
+taobao.com#$#.login-box-warp {width: 650px;top: 60px;right: 120px;}
+taobao.com#$#.bd {width: 650px;}
+taobao.com#$##J_LoginBox {border-radius: 1em;position: absolute;width: 650px;box-shadow: 0 0 0 1px rgba(255, 255, 255, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.6);padding-bottom: 7px;}
+taobao.com#$#.login-adlink,.login-tip,#J_Quick2Static,div.login-links:nth-child(5) {display: none !important;}
+taobao.com#$##J_StaticForm {display: inline-block !important;padding-right: 35px;border-right-style: dashed;}
+taobao.com#$#.quick-form {width: 300px;float: right !important;}
